@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Мій список</string>
+    <string name="add_item">Додати товар</string>
+    <string name="add">Додати</string>
+    <string name="edit">Змінити</string>
+    <string name="delete">Видалити</string>
+    <string name="edit_label">Змінити</string>
+    <string name="save">Зберегти</string>
+</resources>
